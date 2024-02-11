@@ -1,0 +1,11 @@
+groupVoice:
+  - name: Ops
+    config:
+      active: true
+      affiliated: false
+      inclusion: []
+      exclusion: []
+      rewrite: []
+    source:
+      tgid: 31611
+      slot: 1
